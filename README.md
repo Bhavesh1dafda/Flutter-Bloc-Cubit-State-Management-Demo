@@ -1,4 +1,4 @@
-# cubit_demo
+# Bloc(Cubit) State Management Demo
 
 A new Flutter project.
 
